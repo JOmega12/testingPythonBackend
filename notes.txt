@@ -1,0 +1,12 @@
+` py -m venv .venv ` opens a folder for your library and scripts
+essentially it's installing a virtual environment
+
+
+After installing python make sure that your shortcuts are modified
+
+add: ` pip install django ` 
+
+
+then `django-admin ` to see what you can do
+`django-admin startproject **name of folder** **which directory** `
+ex.  django-admin startproject testing .
