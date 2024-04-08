@@ -6,7 +6,20 @@ After installing python make sure that your shortcuts are modified
 
 add: ` pip install django ` 
 
+then `pip install djangorestframework ` that's the tool for rest api
 
 then `django-admin ` to see what you can do
 `django-admin startproject **name of folder** **which directory** `
 ex.  django-admin startproject testing .
+
+in this project it is manage.py 
+
+then ` python manage.py runserver'
+
+in the https ` + /admin`
+
+then ` python manage.py createsuperuser`
+
+admin
+email@email.com
+password: Password
