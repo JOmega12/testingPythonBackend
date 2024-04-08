@@ -23,3 +23,6 @@ then ` python manage.py createsuperuser`
 admin
 email@email.com
 password: Password
+
+
+https://www.youtube.com/watch?v=i5JykvxUk_A&list=LL&index=4&t=337s
